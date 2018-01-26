@@ -1,4 +1,5 @@
 Last updated: 01/25/18
+fixed shell build comamnd error
 
 https://wiki.jenkins.io/display/JENKINS/Plugin+tutorial
 
